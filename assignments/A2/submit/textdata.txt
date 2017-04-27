@@ -1,0 +1,9 @@
+Johnny De Blue
+59 1234.75
+Anne Simpson
+19 125.00
+Tom Cruise
+19 23.50
+Paul Keating
+55 100000056.78
+-1
